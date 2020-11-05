@@ -1,3 +1,7 @@
+#Info
+
+a simple method for parsing JSON objects. All objects in project/postJson/posts.json
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
